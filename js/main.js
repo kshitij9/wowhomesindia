@@ -1,6 +1,6 @@
-const products = document.querySelector('productsList');
+const products = document.querySelector('#productsList');
 
-document.addEventListener('click', (event) => {
+products.addEventListener('click', (event) => {
     sessionStorage.setItem('selectedProduct', event.target.id);
     let hostname = location.href;
     const a = hostname.split('/');
