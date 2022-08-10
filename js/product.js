@@ -58,7 +58,7 @@ function setImgSmall() {
 const products = [
     {
         "product_name": "Lifto Dry Luxury (6 Feet- 6 Pipes)",
-        "product_description": "Product Dimensions ‏ : ‎ 92 x 10 x 10 cm; 2.5 Kilograms<br>Date First Available ‏ : ‎ 16 July 2021<br>Manufacturer ‏ : ‎ WOW HOMES<br>ASIN ‏ : ‎ B099NLXQVB<br>Item model number ‏ : ‎ Lifto Dry Luxury<br>Manufacturer ‏ : ‎ WOW HOMES<br>Item Weight ‏ : ‎ 2 kg 500 g<br>Item Dimensions LxWxH ‏ : ‎ 92 x 10 x 10 Centimeters<br>Included Components ‏ : ‎ 6 Stainless Steel Pipes of 3 FEET | 2 Pcs Metal Ceiling Pulley bracket| 1Metal Wall Hook | 6 UV resistant Nylon Ropes | 12 Pipe End Caps ( +1 extra) | 12 Rope Stopper Caps (+4extra) | 1 Set Screw for Ceiling | 1 Set Screw for Wall Hook | 1 Fitting Instruction Manual",
+        "product_description": "<strong>Product Dimensions</strong> ‏ : ‎<strong>181 x 10 x 10 cm; 4.0 Kilograms</strong><br><strong>Date First Available</strong> ‏ : ‎ 16 July 2021<br><strong>Manufacturer</strong> ‏ : ‎ WOW HOMES<br><strong>ASIN</strong> ‏ : ‎ B099NK5LRC<br><strong>Item model number</strong> ‏ : ‎ Lifto Dry Luxury<br><strong>Manufacturer</strong> ‏ : ‎ WOW HOMES<br><strong>Item Weight</strong> ‏ : ‎ 4 kg 500 g<br><strong>Item Dimensions</strong> LxWxH ‏ : ‎ 181 x 10 x 10 Centimeters<br><strong>Included Components</strong> ‏ : ‎ 6 Stainless Steel Pipes of 6 FEET | 2 Pcs Metal Ceiling Pulley bracket| 1Metal Wall Hook | 6 UV resistant Nylon Ropes | 12 Pipe End Caps ( +1 extra) | 12 Rope Stopper Caps (+4extra) | 1 Set Screw for Ceiling | 1 Set Screw for Wall Hook | 1 Fitting Instruction Manual",
         "image_urls": [
             "img/products/6-pipes/6.jpg",
             "img/products/02.jpg",
@@ -68,7 +68,7 @@ const products = [
     },
     {
         "product_name": "Lifto Dry Luxury (4 Feet- 6 Pipes)",
-        "product_description": "Product Dimensions ‏ : ‎ 92 x 10 x 10 cm; 2.5 Kilograms<br>Date First Available ‏ : ‎ 16 July 2021<br>Manufacturer ‏ : ‎ WOW HOMES<br>ASIN ‏ : ‎ B099NLXQVB<br>Item model number ‏ : ‎ Lifto Dry Luxury<br>Manufacturer ‏ : ‎ WOW HOMES<br>Item Weight ‏ : ‎ 2 kg 500 g<br>Item Dimensions LxWxH ‏ : ‎ 92 x 10 x 10 Centimeters<br>Included Components ‏ : ‎ 6 Stainless Steel Pipes of 3 FEET | 2 Pcs Metal Ceiling Pulley bracket| 1Metal Wall Hook | 6 UV resistant Nylon Ropes | 12 Pipe End Caps ( +1 extra) | 12 Rope Stopper Caps (+4extra) | 1 Set Screw for Ceiling | 1 Set Screw for Wall Hook | 1 Fitting Instruction Manual",
+        "product_description": "<strong>Product Dimensions</strong> ‏ : ‎ <strong>121 x 10 x 10 cm; 2.9 Kilograms</strong><br><strong>Date First Available</strong> ‏ : ‎ 16 July 2021<br><strong>Manufacturer</strong> ‏ : ‎ WOW HOMES<br><strong>ASIN</strong> ‏ : ‎ B099NKQWXG<br><strong>Item model number</strong> ‏ : ‎ Lifto Dry Luxury<br><strong>Manufacturer</strong> ‏ : ‎ WOW HOMES<br><strong>Item Weight</strong> ‏ : ‎ 2 kg 900 g<br><strong>Item Dimensions</strong> LxWxH ‏ : ‎ 121 x 10 x 10 Centimeters<br><strong>Included Components</strong> ‏ : ‎ 6 Stainless Steel Pipes of 4 FEET | 2 Pcs Metal Ceiling Pulley bracket| 1Metal Wall Hook | 6 UV resistant Nylon Ropes | 12 Pipe End Caps ( +1 extra) | 12 Rope Stopper Caps (+4extra) | 1 Set Screw for Ceiling | 1 Set Screw for Wall Hook | 1 Fitting Instruction Manual",
         "image_urls": [
             "img/products/6-pipes/4.jpg",
             "img/products/02.jpg",
@@ -78,7 +78,7 @@ const products = [
     },
     {
         "product_name": "Lifto Dry Luxury (3 Feet- 6 Pipes)",
-        "product_description": "Product Dimensions ‏ : ‎ 92 x 10 x 10 cm; 2.5 Kilograms<br>Date First Available ‏ : ‎ 16 July 2021<br>Manufacturer ‏ : ‎ WOW HOMES<br>ASIN ‏ : ‎ B099NLXQVB<br>Item model number ‏ : ‎ Lifto Dry Luxury<br>Manufacturer ‏ : ‎ WOW HOMES<br>Item Weight ‏ : ‎ 2 kg 500 g<br>Item Dimensions LxWxH ‏ : ‎ 92 x 10 x 10 Centimeters<br>Included Components ‏ : ‎ 6 Stainless Steel Pipes of 3 FEET | 2 Pcs Metal Ceiling Pulley bracket| 1Metal Wall Hook | 6 UV resistant Nylon Ropes | 12 Pipe End Caps ( +1 extra) | 12 Rope Stopper Caps (+4extra) | 1 Set Screw for Ceiling | 1 Set Screw for Wall Hook | 1 Fitting Instruction Manual",
+        "product_description": "<strong>Product Dimensions</strong> ‏ : ‎ <strong>92 x 10 x 10 cm; 2.5 Kilograms</strong><br><strong>Date First Available</strong> ‏ : ‎ 16 July 2021<br><strong>Manufacturer</strong> ‏ : ‎ WOW HOMES<br><strong>ASIN</strong> ‏ : ‎ B099NLXQVB<br><strong>Item model number</strong> ‏ : ‎ Lifto Dry Luxury<br><strong>Manufacturer</strong> ‏ : ‎ WOW HOMES<br><strong>Item Weight</strong> ‏ : ‎ 2 kg 500 g<br><strong>Item Dimensions</strong> LxWxH ‏ : ‎ 92 x 10 x 10 Centimeters<br><strong>Included Components</strong> ‏ : ‎ 6 Stainless Steel Pipes of 3 FEET | 2 Pcs Metal Ceiling Pulley bracket| 1Metal Wall Hook | 6 UV resistant Nylon Ropes | 12 Pipe End Caps ( +1 extra) | 12 Rope Stopper Caps (+4extra) | 1 Set Screw for Ceiling | 1 Set Screw for Wall Hook | 1 Fitting Instruction Manual",
         "image_urls": [
             "img/products/6-pipes/3.jpg",
             "img/products/02.jpg",
